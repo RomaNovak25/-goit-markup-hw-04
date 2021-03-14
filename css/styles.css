@@ -120,6 +120,7 @@ img {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
+    color: #212121;
 }
 
 .tel-link:hover .phone,
@@ -535,6 +536,7 @@ img {
     line-height: 2;
     letter-spacing: 0.06em;
     margin-bottom: 4px;
+    color: #212121;
 }
 
 .work-description {
